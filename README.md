@@ -61,7 +61,7 @@
 - Converter with JPA
 - IntelliJ IDEA Plant UML
 ### Tool
-- Visual Stuio Code
+- Visual Studio Code
 - IntelliJ IDEA
 - GitHub kanban project
 - GitHub
