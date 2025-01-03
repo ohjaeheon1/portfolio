@@ -64,7 +64,6 @@
 - IntelliJ IDEA
 - GitHub kanban project
 - GitHub
-- SQL Gate
 - figma
 - draw.io
 
@@ -78,12 +77,10 @@
 - 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정 **금상** 수상
 
 ### Summary
-
 - HTML, JavaScript, CSS를 기반으로 하여 페이지 스크롤 방식의 메인 페이지를 구성
 - JavaScript를 활용해 고객센터 검색 조건 구현
 
 ### Part
-
 - 메인 페이지 구성
 - 사용가이드 구성
 
@@ -93,7 +90,6 @@
 - JavaScript
 
 ### Tool
-
 - Visual Stuio Code
 - GitHub
 - Slack
