@@ -1,20 +1,20 @@
 # Profile
 
-<table>
+<table style="width: 100%;">
   <tr>
-    <td style="width: 30%; padding-right: 20px;">
+    <td style="width: 0%; padding-right: 20px;">
       <img src="https://github.com/user-attachments/assets/272b594e-7513-4ea0-8f1e-0519733b8df3" alt="Profile Image" width="200" height="250">
     </td>
-    <td style="vertical-align: bottom; padding-left: 20px; width: 70%;">
+    <td style="vertical-align: bottom; padding-left: 20px; width: 60%;">
       <strong>오재헌</strong><br>
       1997년 02월 28일 출생<br><br>
       <strong>학력</strong><br>
       - 소하고등학교 졸업<br>
     &nbsp&nbsp(2013.03 ~ 2016.02)<br>
-      - 리츠메이칸 대학 중퇴<br>&nbsp&nbsp(2016~2021)<br><br>
+      - 리츠메이칸 대학 중퇴<br>&nbsp&nbsp(2016~2020)<br><br>
       <strong>교육</strong><br>
       - 광명시 & 한양대학교 에리카캠퍼스 웹개발자 양성과정 수료<br>&nbsp&nbsp(2023.08 ~ 2024.01)<br>
-      - 프론트엔드구현 및 백엔드개발을 위한 풀스택 인재양성 과정 수료 &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp&nbsp &nbsp<br>&nbsp&nbsp(2024.06~2024.12)<br><br>
+      - 프론트엔드구현 및 백엔드개발을 위한 풀스택 인재양성 과정 수료<br>&nbsp&nbsp(2024.06~2024.12)<br><br>
       <strong>E-mail :</strong> <a href="mailto:qca1313@naver.com">qca1313@naver.com</a><br>
       <!--<strong>GitHub :</strong> <a href="https://github.com/ohjaeheon1/">https://github.com/ohjaeheon1/</a><br>-->
     </td>
