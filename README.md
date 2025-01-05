@@ -2,10 +2,10 @@
 
 <table style="width: 100%;">
   <tr>
-    <td style="width: 0%; padding-right: 20px;">
+    <td style="width: 30%; padding-right: 20px;">
       <img src="https://github.com/user-attachments/assets/272b594e-7513-4ea0-8f1e-0519733b8df3" alt="Profile Image" width="200" height="250">
     </td>
-    <td style="vertical-align: bottom; padding-left: 20px; width: 60%;">
+    <td style="vertical-align: bottom; padding-left: 20px; width: 70%;">
       <strong>오재헌</strong><br>
       1997년 02월 28일 출생<br><br>
       <strong>학력</strong><br>
